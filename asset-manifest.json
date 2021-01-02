@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sample/static/css/main.1dde2189.chunk.css",
+    "main.js": "/sample/static/js/main.c0cd5e12.chunk.js",
+    "main.js.map": "/sample/static/js/main.c0cd5e12.chunk.js.map",
+    "runtime-main.js": "/sample/static/js/runtime-main.7410545d.js",
+    "runtime-main.js.map": "/sample/static/js/runtime-main.7410545d.js.map",
+    "static/js/2.5e5e830c.chunk.js": "/sample/static/js/2.5e5e830c.chunk.js",
+    "static/js/2.5e5e830c.chunk.js.map": "/sample/static/js/2.5e5e830c.chunk.js.map",
+    "static/js/3.55d4ed15.chunk.js": "/sample/static/js/3.55d4ed15.chunk.js",
+    "static/js/3.55d4ed15.chunk.js.map": "/sample/static/js/3.55d4ed15.chunk.js.map",
+    "index.html": "/sample/index.html",
+    "static/css/main.1dde2189.chunk.css.map": "/sample/static/css/main.1dde2189.chunk.css.map",
+    "static/js/2.5e5e830c.chunk.js.LICENSE.txt": "/sample/static/js/2.5e5e830c.chunk.js.LICENSE.txt",
+    "static/media/calc.6f6bf372.png": "/sample/static/media/calc.6f6bf372.png",
+    "static/media/PairsGame.css": "/sample/static/media/elements.5d0d29bc.png",
+    "static/media/tic-tac-toe.9ba0c7e2.png": "/sample/static/media/tic-tac-toe.9ba0c7e2.png",
+    "static/media/todo.7aebfcec.png": "/sample/static/media/todo.7aebfcec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7410545d.js",
+    "static/js/2.5e5e830c.chunk.js",
+    "static/css/main.1dde2189.chunk.css",
+    "static/js/main.c0cd5e12.chunk.js"
+  ]
+}
