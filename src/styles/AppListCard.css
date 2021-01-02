@@ -1,0 +1,50 @@
+div.app-list-card {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: grid;
+    grid-template-rows: 1fr 45px;
+    background-color: white;
+    box-shadow: 0px 2px 5px #273c7527;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    cursor: pointer;
+    user-select: none;
+}
+
+div.app-list-card:hover {
+    box-shadow: 0px 2px 10px #273c7544;
+}
+
+div.app-list-card-image {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    background: #f5f5f5;
+}
+
+div.app-list-card-image img {
+    transition: all 0.2s linear;
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top: -9999px;
+    left: -9999px;
+    right: -9999px;
+    bottom: -9999px;
+}
+
+div.app-list-card:hover img {
+    transform: scale(1.5);
+}
+
+div.app-list-card-name {
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    opacity: 0.7;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 600;
+}
