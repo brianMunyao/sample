@@ -108,7 +108,6 @@ class TicTacToe extends Component {
 			}
 		}
 
-		let maxCounter = 0;
 		for (let i = 0; i < winConfig.length; i++) {
 			const play = winConfig[i].filter(
 				(val) => tempArr.includes(val) || compArr.includes(val)
