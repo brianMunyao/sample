@@ -10,7 +10,7 @@ import TicTacToe from './screens/TicTacToe';
 
 const App = () => {
 	return (
-		<Router>
+		<Router basename={process.env.PUBLIC_URL}>
 			<Switch>
 				<Route path="/" exact component={MainApp} />
 				<Route path="/todo" component={MiniToDoApp} />
